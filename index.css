@@ -1,0 +1,11 @@
+.sort {
+    color: green;
+}
+.sort:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.battonOn {
+    background-color: green;
+}
